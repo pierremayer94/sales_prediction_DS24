@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name](https://github.com/pierremayer94/sales_prediction_DS24)
+[https://github.com/pierremayer94/sales_prediction_DS24](https://github.com/pierremayer94/sales_prediction_DS24) 
 
 ## Description
 
